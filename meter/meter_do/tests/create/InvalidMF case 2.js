@@ -19,7 +19,7 @@ const getStub = () => {
 }
 
 const expected = false;
-const identifier = "MF not provided > InvalidMF case 2"
+const identifier = "Invalid mf > InvalidMF case 2"
 
 module.exports = {
     getStub,

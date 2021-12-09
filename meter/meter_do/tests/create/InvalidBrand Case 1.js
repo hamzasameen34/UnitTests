@@ -19,7 +19,7 @@ const getStub = () => {
 }
 
 const expected = false;
-const identifier = "Invalid meter input > InvalidBrand Case 1"
+const identifier = "Invalid brand input > InvalidBrand Case 1"
 
 module.exports = {
     getStub,
